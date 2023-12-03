@@ -1,4 +1,4 @@
-# Advent of Code 2023 (Python) 🎅🚀
+# Advent of Code 2023 (Python) 🎅🎄
 
 Welcome to the festive coding extravaganza! 🌟 Embrace the holiday spirit with the Advent of Code 2023, where every day unfolds a new programming puzzle behind the doors of our virtual calendar.
 
@@ -12,10 +12,19 @@ Welcome to the festive coding extravaganza! 🌟 Embrace the holiday spirit with
 
 Hey fellow coding enthusiasts! 🚀✨
 
-'Tis the season for coding challenges! 🎄 Dive into the enchanting world of Advent of Code 2023, where daily coding puzzles await your mastery. Join me on this coding journey as I tackle each challenge and unveil solutions in Python.
+This is the season for coding challenges! 🎄 Dive into the enchanting world of Advent of Code 2023, where daily coding puzzles await your mastery. Join me on this coding journey as I tackle each challenge and unveil solutions in Python.
 
 > Striving for the most pythonic solutions possible! 🐍
 
 Hit that ⭐️ button to stay in the loop and receive notifications whenever a new code gem is unearthed.
 
 ---
+
+## Day 1: Trebuchet?!
+
+<p align="center">
+  <img src="https://github.com/jatinkrmalik/advent-of-code-2023/assets/7387945/942c1a84-91a5-428c-8977-17f9eb8a68bb" width=75% align=center>
+</p>
+
+
+- Code: [Link](https://github.com/onlyVishesh/Advent-of-code/tree/main/Day%201%3A%20Trebuchet)
