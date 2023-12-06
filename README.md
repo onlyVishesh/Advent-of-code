@@ -36,3 +36,11 @@ Hit that ⭐️ button to stay in the loop and receive notifications whenever a 
 </p>
 
 - Code: [Link](https://github.com/onlyVishesh/Advent-of-code/tree/main/Day%202%3A%20Cube%20Conundrum)
+
+## Day 3: Gear Ratios
+
+<p align="center">
+  <img src="https://github.com/jatinkrmalik/advent-of-code-2023/assets/7387945/54113f1e-b76e-4351-8844-4352b8fa57a5" width=75% align=center>
+</p>
+
+- Code: [Link](https://github.com/onlyVishesh/Advent-of-code/tree/main/Day%203%3A%20Gear%20Ratios)
