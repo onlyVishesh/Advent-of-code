@@ -44,3 +44,11 @@ Hit that ⭐️ button to stay in the loop and receive notifications whenever a 
 </p>
 
 - Code: [Link](https://github.com/onlyVishesh/Advent-of-code/tree/main/Day%203%3A%20Gear%20Ratios)
+
+## Day 4: Scratchcards
+
+<p align="center">
+  <img src="https://github.com/jatinkrmalik/advent-of-code-2023/assets/7387945/25179957-c7e6-455f-a204-ea7f7493c304" width=75% align=center>
+</p>
+
+- Code: [Link](https://github.com/onlyVishesh/Advent-of-code/tree/main/Day%204%3A%20Scratchcards)
