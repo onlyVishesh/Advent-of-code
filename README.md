@@ -52,3 +52,11 @@ Hit that ⭐️ button to stay in the loop and receive notifications whenever a 
 </p>
 
 - Code: [Link](https://github.com/onlyVishesh/Advent-of-code/tree/main/Day%204%3A%20Scratchcards~)
+
+## Day 5: If You Give A Seed A Fertilizer
+
+<p align="center">
+  <img src="https://github.com/jatinkrmalik/advent-of-code-2023/assets/7387945/43dd3688-ca3b-4eeb-a9ae-f58526b7cfd6" width=75% align=center>
+</p>
+
+- Code: [Link](https://github.com/onlyVishesh/Advent-of-code/tree/main/Day%205%3A%20If%20You%20Give%20A%20Seed%20A%20Fertilizer)
