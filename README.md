@@ -60,3 +60,11 @@ Hit that ⭐️ button to stay in the loop and receive notifications whenever a 
 </p>
 
 - Code: [Link](https://github.com/onlyVishesh/Advent-of-code/tree/main/Day%205%3A%20If%20You%20Give%20A%20Seed%20A%20Fertilizer)
+
+## Day 6: Wait for It
+
+<p align="center">
+  <img src="https://github.com/jatinkrmalik/advent-of-code-2023/assets/7387945/b6e47736-840c-4d16-9020-8fe05910d662" width=75% align=center>
+</p>
+
+- Code: [Link](https://github.com/onlyVishesh/Advent-of-code/tree/main/Day%206%3A%20Wait%20For%20It)
