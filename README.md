@@ -68,3 +68,11 @@ Hit that ⭐️ button to stay in the loop and receive notifications whenever a 
 </p>
 
 - Code: [Link](https://github.com/onlyVishesh/Advent-of-code/tree/main/Day%206%3A%20Wait%20For%20It)
+
+## Day 7: Camel Cards
+
+<p align="center">
+  <img src="https://github.com/jatinkrmalik/advent-of-code-2023/assets/7387945/66386d65-e348-41f8-b99f-50eb301993de" width=75% align=center>
+</p>
+
+- Code: [Link](https://github.com/onlyVishesh/Advent-of-code/tree/main/Day%207%3A%20Camel%20Cards)
