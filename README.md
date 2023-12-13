@@ -76,3 +76,11 @@ Hit that ⭐️ button to stay in the loop and receive notifications whenever a 
 </p>
 
 - Code: [Link](https://github.com/onlyVishesh/Advent-of-code/tree/main/Day%207%3A%20Camel%20Cards)
+
+## Day 8: Haunted Wasteland
+
+<p align="center">
+  <img src="https://github.com/jatinkrmalik/advent-of-code-2023/assets/7387945/1b9259f3-2762-4b7d-a18e-945a99113588" width=75% align=center>
+</p>
+
+- Code: [Link](https://github.com/onlyVishesh/Advent-of-code/tree/main/Day%208%3A%20Haunted%20Wasteland)
