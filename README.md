@@ -84,3 +84,11 @@ Hit that ⭐️ button to stay in the loop and receive notifications whenever a 
 </p>
 
 - Code: [Link](https://github.com/onlyVishesh/Advent-of-code/tree/main/Day%208%3A%20Haunted%20Wasteland)
+
+## Day 9: Mirage Maintenance
+
+<p align="center">
+  <img src="https://github.com/jatinkrmalik/advent-of-code-2023/assets/7387945/e4e1e3ab-61fe-4288-ad78-c051dc132d9b" width=75% align=center>
+</p>
+
+- Code: [Link](https://github.com/onlyVishesh/Advent-of-code/tree/main/Day%209%3A%20Mirage%20Maintenance)
