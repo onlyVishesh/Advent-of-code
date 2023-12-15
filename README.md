@@ -92,3 +92,11 @@ Hit that ⭐️ button to stay in the loop and receive notifications whenever a 
 </p>
 
 - Code: [Link](https://github.com/onlyVishesh/Advent-of-code/tree/main/Day%209%3A%20Mirage%20Maintenance)
+
+## Day 10: Pipe Maze
+
+<p align="center">
+  <img src="https://github.com/jatinkrmalik/advent-of-code-2023/assets/7387945/70db2572-6fa2-403d-82d9-36226035363e" width=75% align=center>
+</p
+
+- Code: [Link](https://github.com/onlyVishesh/Advent-of-code/tree/main/Day%2010%3A%20Pipe%20Maze)
