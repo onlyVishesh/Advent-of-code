@@ -100,3 +100,11 @@ Hit that ⭐️ button to stay in the loop and receive notifications whenever a 
 </p
 
 - Code: [Link](https://github.com/onlyVishesh/Advent-of-code/tree/main/Day%2010%3A%20Pipe%20Maze)
+
+## Day 11: Cosmic Expansion
+
+<p align="center">
+  <img src="https://github.com/jatinkrmalik/advent-of-code-2023/assets/7387945/42d0e95a-d02a-4064-b9b3-c5b604890980" width=75% align=center>
+</p>
+
+- Code: [Link](https://github.com/onlyVishesh/Advent-of-code/tree/main/Day%2011%3A%20Cosmic%20Expansion)
