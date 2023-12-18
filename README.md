@@ -108,3 +108,11 @@ Hit that ⭐️ button to stay in the loop and receive notifications whenever a 
 </p>
 
 - Code: [Link](https://github.com/onlyVishesh/Advent-of-code/tree/main/Day%2011%3A%20Cosmic%20Expansion)
+
+## Day 12: Hot Springs
+
+<p align="center">
+  <img src="https://github.com/jatinkrmalik/advent-of-code-2023/assets/7387945/80e4ed1e-79a2-48b3-8bc2-692c2dcd83f9" width=75% align=center>
+</p>
+
+- Code: [Link](https://github.com/onlyVishesh/Advent-of-code/tree/main/Day%2012%3A%20Hot%20Springs)
